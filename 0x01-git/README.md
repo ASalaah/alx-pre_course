@@ -1,1 +1,2 @@
-this is readme text in readme
+git fetch origin main
+git merge origin/main
